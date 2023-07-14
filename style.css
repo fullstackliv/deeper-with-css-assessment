@@ -5,7 +5,7 @@ body {
   background-color: #eae2b7;
   color: #003049;
   font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
-  padding: 400px;
+  padding: 200px;
   padding-top: 30px;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 .about > div {
-    margin: 10px;
+    margin: 1px;
     text-align: left;
 }
 
@@ -42,13 +42,21 @@ body {
   margin: 5px;
 }
 
+/* #page-title {
+  font-size: 2em;
+  text-align: center;
+} */
+
+#hi-pete-thinkful {
+  padding-right: 60px;
+}
+
 /* Headings */
 h1,
 h2,
 h3 {
   font-family: "Playfair Display", Times, serif;
   text-align: center;
-  padding-top: 20px;
 }
 
 /* Header */
